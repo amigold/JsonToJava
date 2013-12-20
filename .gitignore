@@ -11,3 +11,12 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
+
+# Intellij
+.idea/
+*.iml
+*.iws
+.history
+
+# Mac
+.DS_Store
